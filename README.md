@@ -27,3 +27,11 @@ Aburridos | 3/10
 Gordos | 5/10
 Graciosos | 20/10
 **Total** | 47/50
+
+
+
+```git add README.md```
+
+```git commit -m "add readme"```
+
+```git push origin main```
