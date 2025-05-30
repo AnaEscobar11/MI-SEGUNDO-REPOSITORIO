@@ -28,6 +28,8 @@ Gordos | 5/10
 Graciosos | 20/10
 **Total** | 47/50
 
+![caos](https://github.com/user-attachments/assets/883eda7a-26e4-4432-8664-5c883a94beab)
+
 
 
 ```git add README.md```
